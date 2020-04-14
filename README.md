@@ -1,6 +1,6 @@
 # test_swift_app
 
-A new Flutter project.
+Test app to diagnose this issue https://github.com/flutter/flutter/issues/54574
 
 ## Getting Started
 
